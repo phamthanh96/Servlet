@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/listUser.jsp=UTF-8
+encoding//src/controller/ErrorController.java=UTF-8
+encoding//src/controller/ListUserController.java=UTF-8
+encoding//src/model/logic/ConnectionDatabase.java=UTF-8
+encoding//src/model/logic/UserDatabase.java=UTF-8
+encoding//src/util/Common.java=UTF-8
